@@ -1,77 +1,146 @@
----
-margin-left: 2cm
-margin-right: 2cm
-margin-top: 1cm
-margin-bottom: 2cm
-title: Your Resume in Markdown
-description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
-keywords:
-  - 'php'
-  - 'mysql'
-  - 'linux'
-author:
-- I am the author
-subject: 'Subject'
----
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
+<title> Anthony Ebert </title>
 
-### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way
+Dr Anthony Ebert
+============
 
-## Skills
+> <anthonyebert@gmail.com> \text{• 31 17 17 93} 
 
-```programming```
-```devops```
-```databases```
-```containers```
-```linux systems administration```
-```webservers```
-```project management```
-```system architecture & design```
-```entrepreneurship```
-```load/stress testing```
-```WordPress```
+<center><a class="github-button" href="https://github.com/AnthonyEbert" aria-label="Follow @AnthonyEbert on GitHub" alt="Follow Anthony on Github"><div>Follow @AnthonyEbert</div></a>
+<a class="LinkedIn-button" href="https://www.linkedin.com/in/anthonyebert/" aria-label="Anthony Ebert's profile on LinkedIn">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="20"/>
+</a>
+<a href="https://twitter.com/AnthonyCEbert" class="twitter-follow-button" data-show-count="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
-**Programming**: Lua, Haskell, Erlang, Go, Javascript
-**Databases**: MySQL, Postgres, sqlite, SQL Server, Oracle, Pick
-**Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian
-**DevOps**: Ansible, Chef, Kubernetes, etc.
+<div>
+See my [Google Scholar list of publications](https://scholar.google.com.au/citations?user=mFPOEqwAAAAJ&hl=en)
+</div>
 
-## Experience
+Experience
+----------
 
-### CEO and Founder, Pied Piper
+2021-present
+: **Postdoctoral researcher**; National Center of Excellence for the Molecular Prediction of Inflammatory Bowel Disease (PREDICT); Dept of Clinical Medicine, Aalborg University Copenhagen
 
-start-date-end-date, City, State and remote
+2021-2021
+: **Postdoctoral researcher (part-time)**; Queensland University of Technology
 
-- Things you did/do here
-- More things that you do here.
+2019-2020
+: **Postdoctoral researcher**; Università della Svizzera italiana, Swiss Federal Institute of Aquatic Science and Technology, and Harvard T.H. Chan School of Public Health
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+2019-2020
+: **Teaching assistant**; Università della Svizzera italiana
 
-### Senior Software Architect, Hooli
+2018
+: **Casual lecturer**, Mathematics and Statistics for Medical Science; Queensland University of Technology
 
-2010-2016, San Francisco, CA
+2016-2017
+: **Sessional academic tutor**, Quantitative Methods in Science; Queensland University of Technology
 
-- This is the job you had before your latest job
-- Did you do anything that wasn't part of your job description, but you excelled at?
+2017
+: **Mentor**, Predictive Analytics: Gaining Insights from Big Data (Online course); Queensland University of Technology
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+2016
+: **Teaching assistant**, Big Data: Statistical Inference and Machine Learning (Online course); Queensland University of Technology
 
-## Awards & Recognition
+2012
+: **Engineer**; Atom Consulting
 
-- Winner TechCrunch Disrupt 2001
-- People Magazine's sexiest man alive at 123 My Address, MyCity, TX
+2010-2011
+: **Course tutor**, Products and Value Chains; University of Sydney
 
-## Projects
+2007-2009
+: **Year in Industry Internship Holder**; ANSTO Minerals
 
-**[*Personal Blog*](http://luther.io)** (2021-present)
+Education
+---------
 
-- Authored a series of articles covering a wide variety of topics and tools related to technology like PHP, WordPress, Ruby, Linux, Docker, and Privacy.
+2016-2020
+: [**PhD, Statistics**](https://www.myequals.net/#/sharelink/413bd64e-89b6-4828-b91b-3f01462fb81d/59171579-5205-45ba-8606-6fbcab3c77f9); Queensland University of Technology
 
-## Education
+	[*​Dynamic Queueing Networks: Simulation, Estimation and Prediction​*](https://eprints.qut.edu.au/180771/1/Anthony_Ebert_Thesis.pdf)
 
-### Masters in BS, Example University
+2015
+: **Honours, Statistics**; University of Western Australia
 
-- 4.0 GPA
-- Deans List
-- Member of xyz club, etc.
-- I didn't really go to college so I don't know what you would put here.
+	[*Predicting Bearing Failure using Joint Models with Longitudinal and Time-to-event Data*](resources/honours.pdf)
+
+2013-2014
+: **Bachelor of Science, Statistics**; Australian National University
+
+2010-2013
+: **MPhil, Chemical Engineering**; University of Sydney
+
+	*Synthesis, Preparation and Assembly of Carbon Nanotube-Based Electrode Materials*
+
+2005-2009
+: **Bachelor of Engineering, Chemical Engineering**; University of Sydney
+
+
+Publications \& Pre-prints
+--------------------------
+
+Agrawal, M., **Ebert, A.**, Poulsen, G., Ungaro, R., Faye, A., Jess, T., Colombel, J-F., & Allin, K. (2023). Early ileocecal resection for Crohn’s disease is associated with improved long-term outcomes compared to anti-tumor necrosis factor therapy: a population-based cohort study. *Gastroenterology*. [https://doi.org/10.1053/j.gastro.2023.05.051](https://doi.org/10.1053/j.gastro.2023.05.051)
+
+**Ebert, A.**, Dutta, R., Mengersen, K., Mira, A., Ruggeri, F., & Wu, P. (2021). Likelihood-free parameter estimation for dynamic queueing networks: Case study of passenger flow in an international airport terminal. *Journal of the Royal Statistical Society: Series C (Applied Statistics)*. [https://doi.org/10.1111/rssc.12487](https://doi.org/10.1111/rssc.12487)
+
+**Ebert, A.**, Wu, P., Mengersen, K., & Ruggeri, F. (2021). Curve registration of functional data for approximate Bayesian computation. *Stats*, 4(3), 762-775. [https://doi.org/10.3390/stats4030045](https://doi.org/10.3390/stats4030045)
+
+**Ebert, A.**, Wu, P., Mengersen, K., & Ruggeri, F. (2020). Computationally Efficient Simulation of Queues: The R Package queuecomputer. *Journal of Statistical Software*, 95(1), 1-29. [https://doi.org/10.18637/jss.v095.i05](https://doi.org/10.18637/jss.v095.i05)
+
+Warne, D.J., **Ebert, A.**, Drovandi, C., Hu, W., Mira, A., Mengersen, K. (2020). Hindsight is 2020 vision: a characterisation of the global response to the COVID-19 pandemic. *BMC Public Health*, 20, 1868. [https://doi.org/10.1186/s12889-020-09972-z](https://doi.org/10.1186/s12889-020-09972-z)
+
+**Ebert, A.**, Pudlo, P., Mengersen, K., & Wu, P. (2022). Combined parameter and state inference with automatically calibrated ABC. arXiv:1910.14227. *To be submitted*. [https://arxiv.org/abs/1910.14227](https://arxiv.org/abs/1910.14227)
+
+**Ebert, A.**, Wu, P. and Mengersen, K. (2019). Simulation for Management of Passenger Facilitation within Airport Terminals. *In Wiley StatsRef: Statistics Reference Online*. [https://doi.org/10.1002/9781118445112.stat08189](https://doi.org/10.1002/9781118445112.stat08189)
+
+Liu, J., **​Ebert, A.**​, Variava, M. F., Dehghani, F., & Harris, A. T. (2010). Surface modification and Pt functionalisation of multi-walled carbon nanotubes in methanol expanded with supercritical CO​2​. *Chemical Engineering Journal​*, 165(3), 974-979. [https://doi.org/10.1016/j.cej.2010.10.008](https://doi.org/10.1016/j.cej.2010.10.008)
+
+Talks
+------------------
+
+**2021**
+
+Combined parameter and state inference for automatically calibrated ABC. *ABC Svalbard*. 12-13\ April. Svalbard,\ Iceland.
+
+**2019**
+
+Approximate Bayesian computation to model passenger flow within airport terminals. *International conference on Monte Carlo methods and approximations*. 8-12\ July. Sydney,\ Australia.
+
+Monte Carlo prediction intervals for dynamic queueing systems (Invited). *Bayesian inference in stochastic processes*. 12-14\ June. Madrid,\ Spain. 
+
+**2018**
+
+Computationally efficient simulation of queues: The R package queuecomputer. *Intractable Likelihoods & Approximate Bayesian Computation (ABC) Workshop*. 12-18\ December. Brisbane,\ Australia. 
+
+A review of distances on functional datasets for likelihood-free inference. *Joint International Society for Clinical Biostatistics and Australian Statistical Conference*. 26-30\ August. Melbourne,\ Australia.
+
+Approximate Bayesian computation: Distance measures for functional datasets. *LMS Invited Lecture Series and CRISM Summer School in Computational Statistics*. 9-13\ June. Warwick,\ UK. 
+
+**2017**
+
+Passenger flows through airport terminals. *Applied Bayesian Statistic School*. 19-23\ June. Como,\ Italy. 
+
+Dynamic queueing systems: simulation, estimation & prediction. *Bayes UC3M research group* (University Carlos III of Madrid). 1\ June. Madrid,\ Spain. 
+
+Efficient simulation of complex queueing systems with the R package queuecomputer. *Sixième Rencontres R*. 28-30\ June. Anglet,\ France. 
+
+
+Technical skills
+-----------------
+
+**Programming:** ​R (5 years exp), Python, C++, Matlab, SQLite + Relational algebra (Stanford Online)
+
+**Operating Systems:​** Linux, OSX, Windows, High performance computing (PBS Pro)
+
+**Document preparation:**​ LaTeX, Rmarkdown, Microsoft Office
+
+**Probabilistic programming:** ​JAGS, STAN, OpenBUGS
+
+**R packages authored:** ​[queuecomputer](https://cran.r-project.org/package=queuecomputer) (on CRAN), [EasyMMD](https://github.com/AnthonyEbert/EasyMMD), [protoABC](https://github.com/AnthonyEbert/protoABC)
+
+> <anthonyebert@gmail.com> \text{• 31 17 17 93}
+
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
