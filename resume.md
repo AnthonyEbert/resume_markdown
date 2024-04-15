@@ -1,19 +1,9 @@
 <title> Anthony Ebert </title>
 
-Dr Anthony Ebert
+Anthony Ebert PhD
 ============
 
 > <anthonyebert@gmail.com>
-
-<center><a class="github-button" href="https://github.com/AnthonyEbert" aria-label="Follow @AnthonyEbert on GitHub" alt="Follow Anthony on Github"><div>Follow @AnthonyEbert</div></a>
-<a class="LinkedIn-button" href="https://www.linkedin.com/in/anthonyebert/" aria-label="Anthony Ebert's profile on LinkedIn">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="20"/>
-</a>
-<a href="https://twitter.com/AnthonyCEbert" class="twitter-follow-button" data-show-count="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
-
-<div>
-See my [Google Scholar list of publications](https://scholar.google.com.au/citations?user=mFPOEqwAAAAJ&hl=en)
-</div>
 
 Experience
 ----------
@@ -79,21 +69,21 @@ Education
 Publications \& Pre-prints
 --------------------------
 
+**Ebert, A.**, Dutta, R., Mengersen, K., Mira, A., Ruggeri, F., & Wu, P. (2021). Likelihood-free parameter estimation for dynamic queueing networks: Case study of passenger flow in an international airport terminal. *Journal of the Royal Statistical Society: Series C (Applied Statistics)*. [https://doi.org/10.1111/rssc.12487](https://doi.org/10.1111/rssc.12487)
+
+**Ebert, A.**, Wu, P., Mengersen, K., & Ruggeri, F. (2020). Computationally Efficient Simulation of Queues: The R Package queuecomputer. *Journal of Statistical Software*, 95(1), 1-29. [https://doi.org/10.18637/jss.v095.i05](https://doi.org/10.18637/jss.v095.i05)
+
 Agrawal, M., **Ebert, A.**, Poulsen, G., Ungaro, R., Faye, A., Jess, T., Colombel, J-F., & Allin, K. (2023). Early ileocecal resection for Crohn’s disease is associated with improved long-term outcomes compared to anti-tumor necrosis factor therapy: a population-based cohort study. *Gastroenterology* 165.4: 976-985. [https://doi.org/10.1053/j.gastro.2023.05.051](https://doi.org/10.1053/j.gastro.2023.05.051)
 
 **Ebert, A.**, Elmahdi, R., Poulsen, G., Bøgsted, M., Verstockt, B., Lees, C. W., & Jess, T. (2024). Inflammatory bowel disease and risk of more than 1500 comorbidities: A disease-wide pre-and post-diagnostic phenomic association study. *medRxiv*, 2024-02. [https://doi.org/10.1101/2024.02.14.24302206](https://doi.org/10.1101/2024.02.14.24302206)
 
 **Ebert, A.**, Harper, S., Vestergaard, M. V., Mitchell, W. A., Jess, T., & Elmahdi, R. (2024). Risk of Inflammatory Bowel Disease Following Hospitalisation with Infectious Mononucleosis: A Danish Nationwide Cohort Study (1977-2021). *medRxiv*, 2024-03. [https://doi.org/10.1101/2024.03.25.24304776](https://doi.org/10.1101/2024.03.25.24304776)
 
-**Ebert, A.**, Dutta, R., Mengersen, K., Mira, A., Ruggeri, F., & Wu, P. (2021). Likelihood-free parameter estimation for dynamic queueing networks: Case study of passenger flow in an international airport terminal. *Journal of the Royal Statistical Society: Series C (Applied Statistics)*. [https://doi.org/10.1111/rssc.12487](https://doi.org/10.1111/rssc.12487)
-
 **Ebert, A.**, Wu, P., Mengersen, K., & Ruggeri, F. (2021). Curve registration of functional data for approximate Bayesian computation. *Stats*, 4(3), 762-775. [https://doi.org/10.3390/stats4030045](https://doi.org/10.3390/stats4030045)
-
-**Ebert, A.**, Wu, P., Mengersen, K., & Ruggeri, F. (2020). Computationally Efficient Simulation of Queues: The R Package queuecomputer. *Journal of Statistical Software*, 95(1), 1-29. [https://doi.org/10.18637/jss.v095.i05](https://doi.org/10.18637/jss.v095.i05)
 
 Warne, D.J., **Ebert, A.**, Drovandi, C., Hu, W., Mira, A., Mengersen, K. (2020). Hindsight is 2020 vision: a characterisation of the global response to the COVID-19 pandemic. *BMC Public Health*, 20, 1868. [https://doi.org/10.1186/s12889-020-09972-z](https://doi.org/10.1186/s12889-020-09972-z)
 
-**Ebert, A.**, Pudlo, P., Mengersen, K., & Wu, P. (2022). Combined parameter and state inference with automatically calibrated ABC. arXiv:1910.14227. *To be submitted*. [https://arxiv.org/abs/1910.14227](https://arxiv.org/abs/1910.14227)
+**Ebert, A.**, Pudlo, P., Mengersen, K., & Wu, P. (2022). Combined parameter and state inference with automatically calibrated ABC. arXiv:1910.14227. [https://arxiv.org/abs/1910.14227](https://arxiv.org/abs/1910.14227)
 
 **Ebert, A.**, Wu, P. and Mengersen, K. (2019). Simulation for Management of Passenger Facilitation within Airport Terminals. *In Wiley StatsRef: Statistics Reference Online*. [https://doi.org/10.1002/9781118445112.stat08189](https://doi.org/10.1002/9781118445112.stat08189)
 
@@ -104,7 +94,7 @@ Talks
 
 **2024** 
 
-Increased Incidence of Comorbid Diseases 10 years Prior to IBD Diagnosis. **Best Practice Nordic**. April 2024. Denmark
+Increased Incidence of Comorbid Diseases 10 years Prior to IBD Diagnosis. **Best Practice Nordic**. April 2024. Denmark [https://bpno.dk/gp/MzAwNznAM3Tn8dY](https://bpno.dk/gp/MzAwNznAM3Tn8dY)
 
 **2021**
 
@@ -145,8 +135,6 @@ Technical skills
 **Probabilistic programming:** ​JAGS, STAN, OpenBUGS
 
 **R packages authored:** ​[queuecomputer](https://cran.r-project.org/package=queuecomputer) (on CRAN), [EasyMMD](https://github.com/AnthonyEbert/EasyMMD), [protoABC](https://github.com/AnthonyEbert/protoABC)
-
-> <anthonyebert@gmail.com>
 
 
 <!-- Place this tag in your head or just before your close body tag. -->
