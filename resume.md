@@ -3,7 +3,7 @@
 Dr Anthony Ebert
 ============
 
-> <anthonyebert@gmail.com> \text{• 31 17 17 93} 
+> <anthonyebert@gmail.com>
 
 <center><a class="github-button" href="https://github.com/AnthonyEbert" aria-label="Follow @AnthonyEbert on GitHub" alt="Follow Anthony on Github"><div>Follow @AnthonyEbert</div></a>
 <a class="LinkedIn-button" href="https://www.linkedin.com/in/anthonyebert/" aria-label="Anthony Ebert's profile on LinkedIn">
@@ -81,9 +81,9 @@ Publications \& Pre-prints
 
 Agrawal, M., **Ebert, A.**, Poulsen, G., Ungaro, R., Faye, A., Jess, T., Colombel, J-F., & Allin, K. (2023). Early ileocecal resection for Crohn’s disease is associated with improved long-term outcomes compared to anti-tumor necrosis factor therapy: a population-based cohort study. *Gastroenterology* 165.4: 976-985. [https://doi.org/10.1053/j.gastro.2023.05.051](https://doi.org/10.1053/j.gastro.2023.05.051)
 
-**Ebert, A.**, Elmahdi, R., Poulsen, G., Bøgsted, M., Verstockt, B., Lees, C. W., & Jess, T. (2024). Inflammatory bowel disease and risk of more than 1500 comorbidities: A disease-wide pre-and post-diagnostic phenomic association study. *medRxiv*, 2024-02. [https://doi.org/10.1101/2024.02.14.24302206]
+**Ebert, A.**, Elmahdi, R., Poulsen, G., Bøgsted, M., Verstockt, B., Lees, C. W., & Jess, T. (2024). Inflammatory bowel disease and risk of more than 1500 comorbidities: A disease-wide pre-and post-diagnostic phenomic association study. *medRxiv*, 2024-02. [https://doi.org/10.1101/2024.02.14.24302206](https://doi.org/10.1101/2024.02.14.24302206)
 
-**Ebert, A.**, Harper, S., Vestergaard, M. V., Mitchell, W. A., Jess, T., & Elmahdi, R. (2024). Risk of Inflammatory Bowel Disease Following Hospitalisation with Infectious Mononucleosis: A Danish Nationwide Cohort Study (1977-2021). *medRxiv*, 2024-03. [https://doi.org/10.1101/2024.03.25.24304776]
+**Ebert, A.**, Harper, S., Vestergaard, M. V., Mitchell, W. A., Jess, T., & Elmahdi, R. (2024). Risk of Inflammatory Bowel Disease Following Hospitalisation with Infectious Mononucleosis: A Danish Nationwide Cohort Study (1977-2021). *medRxiv*, 2024-03. [https://doi.org/10.1101/2024.03.25.24304776](https://doi.org/10.1101/2024.03.25.24304776)
 
 **Ebert, A.**, Dutta, R., Mengersen, K., Mira, A., Ruggeri, F., & Wu, P. (2021). Likelihood-free parameter estimation for dynamic queueing networks: Case study of passenger flow in an international airport terminal. *Journal of the Royal Statistical Society: Series C (Applied Statistics)*. [https://doi.org/10.1111/rssc.12487](https://doi.org/10.1111/rssc.12487)
 
@@ -146,7 +146,7 @@ Technical skills
 
 **R packages authored:** ​[queuecomputer](https://cran.r-project.org/package=queuecomputer) (on CRAN), [EasyMMD](https://github.com/AnthonyEbert/EasyMMD), [protoABC](https://github.com/AnthonyEbert/protoABC)
 
-> <anthonyebert@gmail.com> \text{• 31 17 17 93}
+> <anthonyebert@gmail.com>
 
 
 <!-- Place this tag in your head or just before your close body tag. -->
