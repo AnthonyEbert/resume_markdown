@@ -94,7 +94,7 @@ Talks
 
 **2024** 
 
-Increased Incidence of Comorbid Diseases 10 years Prior to IBD Diagnosis. **Best Practice Nordic**. April 2024. Denmark [https://bpno.dk/gp/MzAwNznAM3Tn8dY](https://bpno.dk/gp/MzAwNznAM3Tn8dY)
+Increased Incidence of Comorbid Diseases 10 years Prior to IBD Diagnosis. *Best Practice Nordic*. April 2024. Denmark
 
 **2021**
 
@@ -126,11 +126,7 @@ Efficient simulation of complex queueing systems with the R package queuecompute
 Technical skills
 -----------------
 
-**Programming:** ​R (5 years exp), Python, C++, Matlab, SQLite + Relational algebra (Stanford Online)
-
-**Operating Systems:​** Linux, OSX, Windows, High performance computing (PBS Pro)
-
-**Document preparation:**​ LaTeX, Rmarkdown, Microsoft Office
+**Programming:** ​R, Python, C++, Matlab, SQLite + Relational algebra
 
 **Probabilistic programming:** ​JAGS, STAN, OpenBUGS
 
