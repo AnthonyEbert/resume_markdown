@@ -3,9 +3,31 @@
 Anthony Ebert PhD
 ============
 
-> <anthonyebert@gmail.com>
+Education
+---------
 
-Experience
+2016-2020
+: [**PhD, Statistics**](https://www.myequals.net/#/sharelink/413bd64e-89b6-4828-b91b-3f01462fb81d/59171579-5205-45ba-8606-6fbcab3c77f9); Queensland University of Technology
+
+	[*​Dynamic Queueing Networks: Simulation, Estimation and Prediction​*](https://eprints.qut.edu.au/180771/1/Anthony_Ebert_Thesis.pdf)
+
+2015
+: **Honours, Statistics**; University of Western Australia
+
+	[*Predicting Bearing Failure using Joint Models with Longitudinal and Time-to-event Data*](resources/honours.pdf)
+
+2013-2014
+: **Bachelor of Science, Statistics**; Australian National University
+
+2010-2013
+: **MPhil, Chemical Engineering**; University of Sydney
+
+	*Synthesis, Preparation and Assembly of Carbon Nanotube-Based Electrode Materials*
+
+2005-2009
+: **Bachelor of Engineering, Chemical Engineering**; University of Sydney
+
+Employment
 ----------
 
 2021-present
@@ -41,30 +63,33 @@ Experience
 2007-2009
 : **Year in Industry Internship Holder**; ANSTO Minerals
 
-Education
----------
+Academic Awards and Honours
+--------------------------
 
-2016-2020
-: [**PhD, Statistics**](https://www.myequals.net/#/sharelink/413bd64e-89b6-4828-b91b-3f01462fb81d/59171579-5205-45ba-8606-6fbcab3c77f9); Queensland University of Technology
+2016
+: ARC Centre of Excellence for Mathematical & Statistical Frontiers (Best Poster) 
+2015 
+: Award for achieving high distinctions in all subjects
+2007
+: Placed on Dead's List of Academic Merit
 
-	[*​Dynamic Queueing Networks: Simulation, Estimation and Prediction​*](https://eprints.qut.edu.au/180771/1/Anthony_Ebert_Thesis.pdf)
 
-2015
-: **Honours, Statistics**; University of Western Australia
+Management experience
+--------------------------
 
-	[*Predicting Bearing Failure using Joint Models with Longitudinal and Time-to-event Data*](resources/honours.pdf)
+* President, Toad Hall Residents’ Advisory Committee 2014
+* Treasurer, Sydney University Engineering Revue 2007
+* Vice President, Central Coast Young Labor Association 2004 –2005
 
-2013-2014
-: **Bachelor of Science, Statistics**; Australian National University
+Scientific focus areas
+--------------------------
 
-2010-2013
-: **MPhil, Chemical Engineering**; University of Sydney
+Approximate Bayesian computation, Bayesian hierarchical modelling, statistical distance, kernel methods, functional data analysis, curve registration, agent-based models, discrete event simulation, longitudinal data, mixed effects models, spline methods
 
-	*Synthesis, Preparation and Assembly of Carbon Nanotube-Based Electrode Materials*
+Supervision of students
+--------------------------
 
-2005-2009
-: **Bachelor of Engineering, Chemical Engineering**; University of Sydney
-
+Shania Harper (2023), *The Impact of Serious Infectious Mononucleosis on Inflammatory Bowel Disease Diagnosis: A Nested Case-Control Cohort Study (2005-2021)*
 
 Publications \& Pre-prints
 --------------------------
