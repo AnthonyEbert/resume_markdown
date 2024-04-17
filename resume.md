@@ -44,8 +44,12 @@ Employment
 Academic Awards and Honours
 --------------------------
 
+2023 Article featured on the cover of Gastroenterology journal, Volume 165, Issue 4
+
 2016 Best Poster, ARC Centre of Excellence for Mathematical & Statistical Frontiers
+
 2015 Awarded for achieving high distinctions in all subjects, University of Western Australia
+
 2007 Dean's List of Academic Merit, University of Sydney
 
 
