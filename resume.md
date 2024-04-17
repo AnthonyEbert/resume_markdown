@@ -19,39 +19,25 @@ Education
 Employment
 ----------
 
-2021-present **Postdoctoral researcher**; National Center of Excellence for the Molecular Prediction of Inflammatory Bowel Disease (PREDICT); Dept of Clinical Medicine, Aalborg University Copenhagen
-
-2021-2021 **Postdoctoral researcher (part-time)**; Queensland University of Technology
-
-2019-2020 **Postdoctoral researcher**; Università della Svizzera italiana, Swiss Federal Institute of Aquatic Science and Technology, and Harvard T.H. Chan School of Public Health
-
-2019-2020 **Teaching assistant**; Università della Svizzera italiana
-
-2018 **Casual lecturer**, Mathematics and Statistics for Medical Science; Queensland University of Technology
-
-2016-2017 **Sessional academic tutor**, Quantitative Methods in Science; Queensland University of Technology
-
-2017 **Mentor**, Predictive Analytics: Gaining Insights from Big Data (Online course); Queensland University of Technology
-
-2016 **Teaching assistant**, Big Data: Statistical Inference and Machine Learning (Online course); Queensland University of Technology
-
-2012 **Engineer**; Atom Consulting
-
-2010-2011 **Course tutor**, Products and Value Chains; University of Sydney
-
-2007-2009 **Year in Industry Internship Holder**; ANSTO Minerals
+* 2021-present **Postdoctoral researcher**; National Center of Excellence for the Molecular Prediction of Inflammatory Bowel Disease (PREDICT); Dept of Clinical Medicine, Aalborg University Copenhagen
+* 2021-2021 **Postdoctoral researcher (part-time)**; Queensland University of Technology
+* 2019-2020 **Postdoctoral researcher**; Università della Svizzera italiana, Swiss Federal Institute of Aquatic Science and Technology, and Harvard T.H. Chan School of Public Health
+* 2019-2020 **Teaching assistant**; Università della Svizzera italiana
+* 2018 **Casual lecturer**, Mathematics and Statistics for Medical Science; Queensland University of Technology
+* 2016-2017 **Sessional academic tutor**, Quantitative Methods in Science; Queensland University of Technology
+* 2017 **Mentor**, Predictive Analytics: Gaining Insights from Big Data (Online course); Queensland University of Technology
+* 2016 **Teaching assistant**, Big Data: Statistical Inference and Machine Learning (Online course); Queensland University of Technology
+* 2012 **Engineer**; Atom Consulting
+* 2010-2011 **Course tutor**, Products and Value Chains; University of Sydney
+* 2007-2009 **Year in Industry Internship Holder**; ANSTO Minerals
 
 Academic Awards and Honours
 --------------------------
 
-2023 Article featured on the cover of Gastroenterology journal, Volume 165, Issue 4
-
-2016 Best Poster, ARC Centre of Excellence for Mathematical & Statistical Frontiers
-
-2015 Awarded for achieving high distinctions in all subjects, University of Western Australia
-
-2007 Dean's List of Academic Merit, University of Sydney
-
+* 2023 Article featured on the cover of Gastroenterology journal, Volume 165, Issue 4
+* 2016 Best Poster, ARC Centre of Excellence for Mathematical & Statistical Frontiers
+* 2015 Awarded for achieving high distinctions in all subjects, University of Western Australia
+* 2007 Dean's List of Academic Merit, University of Sydney
 
 Management experience
 --------------------------
@@ -103,8 +89,6 @@ Talks
 Technical skills
 -----------------
 
-**Programming:** ​R, Python, C++, Matlab, SQLite + Relational algebra
-
-**Probabilistic programming:** ​JAGS, STAN, OpenBUGS
-
-**R packages authored:** ​[queuecomputer](https://cran.r-project.org/package=queuecomputer) (on CRAN), [EasyMMD](https://github.com/AnthonyEbert/EasyMMD), [protoABC](https://github.com/AnthonyEbert/protoABC)
+* **Programming:** ​R, Python, C++, Matlab, SQLite + Relational algebra
+* **Probabilistic programming:** ​JAGS, STAN, OpenBUGS
+* **R packages authored:** ​[queuecomputer](https://cran.r-project.org/package=queuecomputer) (on CRAN), [EasyMMD](https://github.com/AnthonyEbert/EasyMMD), [protoABC](https://github.com/AnthonyEbert/protoABC)
