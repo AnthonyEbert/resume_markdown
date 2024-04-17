@@ -1,6 +1,6 @@
 <title> Anthony Ebert </title>
 
-Anthony Ebert PhD
+Anthony Ebert, PhD
 ============
 
 Education
