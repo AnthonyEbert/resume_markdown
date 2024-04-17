@@ -56,6 +56,7 @@ Academic Awards and Honours
 Management experience
 --------------------------
 
+* Organizing committee, PhD course: Combining nationwide registries with the national biobank in Denmark 2024
 * President, Toad Hall Residents’ Advisory Committee 2014
 * Treasurer, Sydney University Engineering Revue 2007
 * Vice President, Central Coast Young Labor Association 2004 –2005
