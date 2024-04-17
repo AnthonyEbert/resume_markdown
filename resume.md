@@ -6,72 +6,47 @@ Anthony Ebert PhD
 Education
 ---------
 
-2016-2020
-: [**PhD, Statistics**](https://www.myequals.net/#/sharelink/413bd64e-89b6-4828-b91b-3f01462fb81d/59171579-5205-45ba-8606-6fbcab3c77f9); Queensland University of Technology
+2016-2020 **PhD, Statistics**; Queensland University of Technology *​Dynamic Queueing Networks: Simulation, Estimation and Prediction​*
 
-	[*​Dynamic Queueing Networks: Simulation, Estimation and Prediction​*](https://eprints.qut.edu.au/180771/1/Anthony_Ebert_Thesis.pdf)
+2015 **Honours, Statistics**; University of Western Australia *Predicting Bearing Failure using Joint Models with Longitudinal and Time-to-event Data*
 
-2015
-: **Honours, Statistics**; University of Western Australia
+2013-2014 **Bachelor of Science, Statistics**; Australian National University
 
-	[*Predicting Bearing Failure using Joint Models with Longitudinal and Time-to-event Data*](resources/honours.pdf)
+2010-2013 **MPhil, Chemical Engineering**; University of Sydney *Synthesis, Preparation and Assembly of Carbon Nanotube-Based Electrode Materials*
 
-2013-2014
-: **Bachelor of Science, Statistics**; Australian National University
-
-2010-2013
-: **MPhil, Chemical Engineering**; University of Sydney
-
-	*Synthesis, Preparation and Assembly of Carbon Nanotube-Based Electrode Materials*
-
-2005-2009
-: **Bachelor of Engineering, Chemical Engineering**; University of Sydney
+2005-2009 **Bachelor of Engineering, Chemical Engineering**; University of Sydney
 
 Employment
 ----------
 
-2021-present
-: **Postdoctoral researcher**; National Center of Excellence for the Molecular Prediction of Inflammatory Bowel Disease (PREDICT); Dept of Clinical Medicine, Aalborg University Copenhagen
+2021-present **Postdoctoral researcher**; National Center of Excellence for the Molecular Prediction of Inflammatory Bowel Disease (PREDICT); Dept of Clinical Medicine, Aalborg University Copenhagen
 
-2021-2021
-: **Postdoctoral researcher (part-time)**; Queensland University of Technology
+2021-2021 **Postdoctoral researcher (part-time)**; Queensland University of Technology
 
-2019-2020
-: **Postdoctoral researcher**; Università della Svizzera italiana, Swiss Federal Institute of Aquatic Science and Technology, and Harvard T.H. Chan School of Public Health
+2019-2020 **Postdoctoral researcher**; Università della Svizzera italiana, Swiss Federal Institute of Aquatic Science and Technology, and Harvard T.H. Chan School of Public Health
 
-2019-2020
-: **Teaching assistant**; Università della Svizzera italiana
+2019-2020 **Teaching assistant**; Università della Svizzera italiana
 
-2018
-: **Casual lecturer**, Mathematics and Statistics for Medical Science; Queensland University of Technology
+2018 **Casual lecturer**, Mathematics and Statistics for Medical Science; Queensland University of Technology
 
-2016-2017
-: **Sessional academic tutor**, Quantitative Methods in Science; Queensland University of Technology
+2016-2017 **Sessional academic tutor**, Quantitative Methods in Science; Queensland University of Technology
 
-2017
-: **Mentor**, Predictive Analytics: Gaining Insights from Big Data (Online course); Queensland University of Technology
+2017 **Mentor**, Predictive Analytics: Gaining Insights from Big Data (Online course); Queensland University of Technology
 
-2016
-: **Teaching assistant**, Big Data: Statistical Inference and Machine Learning (Online course); Queensland University of Technology
+2016 **Teaching assistant**, Big Data: Statistical Inference and Machine Learning (Online course); Queensland University of Technology
 
-2012
-: **Engineer**; Atom Consulting
+2012 **Engineer**; Atom Consulting
 
-2010-2011
-: **Course tutor**, Products and Value Chains; University of Sydney
+2010-2011 **Course tutor**, Products and Value Chains; University of Sydney
 
-2007-2009
-: **Year in Industry Internship Holder**; ANSTO Minerals
+2007-2009 **Year in Industry Internship Holder**; ANSTO Minerals
 
 Academic Awards and Honours
 --------------------------
 
-2016
-: ARC Centre of Excellence for Mathematical & Statistical Frontiers (Best Poster) 
-2015 
-: Award for achieving high distinctions in all subjects
-2007
-: Placed on Dead's List of Academic Merit
+2016 Best Poster, ARC Centre of Excellence for Mathematical & Statistical Frontiers
+2015 Awarded for achieving high distinctions in all subjects, University of Western Australia
+2007 Dean's List of Academic Merit, University of Sydney
 
 
 Management experience
