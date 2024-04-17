@@ -97,35 +97,16 @@ Liu, J., **​Ebert, A.**​, Variava, M. F., Dehghani, F., & Harris, A. T. (201
 Talks
 ------------------
 
-**2024** 
-
-Increased Incidence of Comorbid Diseases 10 years Prior to IBD Diagnosis. *Best Practice Nordic*. April 2024. Denmark
-
-**2021**
-
-Combined parameter and state inference for automatically calibrated ABC. *ABC Svalbard*. 12-13\ April. Svalbard,\ Iceland.
-
-**2019**
-
-Approximate Bayesian computation to model passenger flow within airport terminals. *International conference on Monte Carlo methods and approximations*. 8-12\ July. Sydney,\ Australia.
-
-Monte Carlo prediction intervals for dynamic queueing systems (Invited). *Bayesian inference in stochastic processes*. 12-14\ June. Madrid,\ Spain. 
-
-**2018**
-
-Computationally efficient simulation of queues: The R package queuecomputer. *Intractable Likelihoods & Approximate Bayesian Computation (ABC) Workshop*. 12-18\ December. Brisbane,\ Australia. 
-
-A review of distances on functional datasets for likelihood-free inference. *Joint International Society for Clinical Biostatistics and Australian Statistical Conference*. 26-30\ August. Melbourne,\ Australia.
-
-Approximate Bayesian computation: Distance measures for functional datasets. *LMS Invited Lecture Series and CRISM Summer School in Computational Statistics*. 9-13\ June. Warwick,\ UK. 
-
-**2017**
-
-Passenger flows through airport terminals. *Applied Bayesian Statistic School*. 19-23\ June. Como,\ Italy. 
-
-Dynamic queueing systems: simulation, estimation & prediction. *Bayes UC3M research group* (University Carlos III of Madrid). 1\ June. Madrid,\ Spain. 
-
-Efficient simulation of complex queueing systems with the R package queuecomputer. *Sixième Rencontres R*. 28-30\ June. Anglet,\ France. 
+* Increased Incidence of Comorbid Diseases 10 years Prior to IBD Diagnosis. *Best Practice Nordic*. April 2024. Denmark
+* Combined parameter and state inference for automatically calibrated ABC. *ABC Svalbard*. 12-13\ April 2021. Svalbard,\ Iceland.
+* Approximate Bayesian computation to model passenger flow within airport terminals. *International conference on Monte Carlo methods and approximations*. 8-12\ July 2019. Sydney,\ Australia.
+* Monte Carlo prediction intervals for dynamic queueing systems (Invited). *Bayesian inference in stochastic processes*. 12-14\ June 2019. Madrid,\ Spain. 
+* Computationally efficient simulation of queues: The R package queuecomputer. *Intractable Likelihoods & Approximate Bayesian Computation (ABC) Workshop*. 12-18\ December 2018. Brisbane,\ Australia. 
+* A review of distances on functional datasets for likelihood-free inference. *Joint International Society for Clinical Biostatistics and Australian Statistical Conference*. 26-30\ August 2018. Melbourne,\ Australia.
+* Approximate Bayesian computation: Distance measures for functional datasets. *LMS Invited Lecture Series and CRISM Summer School in Computational Statistics*. 9-13\ June 2018. Warwick,\ UK. 
+* Passenger flows through airport terminals. *Applied Bayesian Statistic School*. 19-23\ June 2017. Como,\ Italy. 
+* Dynamic queueing systems: simulation, estimation & prediction. *Bayes UC3M research group* (University Carlos III of Madrid). 1\ June 2017. Madrid,\ Spain. 
+* Efficient simulation of complex queueing systems with the R package queuecomputer. *Sixième Rencontres R*. 28-30\ June 2017. Anglet,\ France. 
 
 
 Technical skills
@@ -136,8 +117,3 @@ Technical skills
 **Probabilistic programming:** ​JAGS, STAN, OpenBUGS
 
 **R packages authored:** ​[queuecomputer](https://cran.r-project.org/package=queuecomputer) (on CRAN), [EasyMMD](https://github.com/AnthonyEbert/EasyMMD), [protoABC](https://github.com/AnthonyEbert/protoABC)
-
-
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
